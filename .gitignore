@@ -1,0 +1,12 @@
+# Python Virtual Environment
+venv
+*.zip
+
+# data/*.txt
+# data/*.xlsx
+# data/*.jpg
+
+fonts/*.ttc
+fonts/*.ttf
+
+namecards/*.png
